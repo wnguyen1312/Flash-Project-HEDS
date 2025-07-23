@@ -2,6 +2,8 @@
 
 This project reproduces a 2D magnetized Kelvin–Helmholtz (K–H) instability test using the FLASH ver 4.8.
 
+<img width="1131" height="374" alt="Screenshot 2025-07-22 at 8 48 46 PM" src="https://github.com/user-attachments/assets/ade50696-2f04-44fe-b2e8-75e3b3bc1d6a" />
+
 ### Initial Conditions
 
 - **Velocity**:  
@@ -29,3 +31,5 @@ This project reproduces a 2D magnetized Kelvin–Helmholtz (K–H) instability t
 ## Reference
 
 Mignone, A., Tzeferacos, P., & Bodo, G. (2010). High-order conservative finite difference GLM–MHD schemes for cell-centered MHD. *Journal of Computational Physics*, [arXiv:1001.2832](https://arxiv.org/abs/1001.2832)
+
+
