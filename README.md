@@ -1,4 +1,4 @@
-# Flash_Project_HEDS
+# Flash Project HEDS
 
 This project reproduces a 2D magnetized Kelvin–Helmholtz (K–H) instability test using the FLASH ver 4.8.
 
