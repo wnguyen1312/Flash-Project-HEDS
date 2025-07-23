@@ -24,6 +24,7 @@ This project reproduces a 2D magnetized Kelvin–Helmholtz (K–H) instability t
 - Perturbation width: $\sigma = 0.1$
 - Alfven speed: $c_a = 0.1$  
 - Domain: $[0, 1] \times [-1, 1]$
+- Angle in xz plane: $\theta = \pi/3$
 
 ## Reference
 
