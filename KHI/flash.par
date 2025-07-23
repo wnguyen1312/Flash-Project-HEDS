@@ -1,6 +1,8 @@
 # 	Runtime parameters for the MHD Current Sheet problem.
 #	Please also look at default.par for more runtime parameters in the object directory
 
+# ./setup -auto magnetoHD/KHI -nxb=8 -nyb=16 +usm +hdf5typeio -parfile=flash.par
+
 #	Specific heats ratio
 gamma           = 1.66666666666666667
 
