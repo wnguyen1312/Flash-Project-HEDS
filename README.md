@@ -1,6 +1,6 @@
 # Flash_Project_HEDS
 
-This project reproduces a 2D magnetized Kelvin–Helmholtz (K–H) instability test using the [FLASH code](http://flash.uchicago.edu/), based on the setup described in [Mignone et al. (2010)](https://arxiv.org/abs/1001.2832).
+This project reproduces a 2D magnetized Kelvin–Helmholtz (K–H) instability test using the FLASH ver 4.8.
 
 ### Initial Conditions
 
@@ -16,14 +16,14 @@ This project reproduces a 2D magnetized Kelvin–Helmholtz (K–H) instability t
 
   $v_y = v_{y0} \sin(2\pi x) \exp\left(-\frac{y^2}{\sigma^2}\right)$
 
-### Parameters
+### Parameters (normalized MHD unit)
 
-- Mach number: \( M = 1 \)  
-- Shear scale height: \( y_0 = 1/20 \)  
-- Perturbation amplitude: \( v_{y0} = 10^{-2} \)  
-- Perturbation width: \( \sigma = 0.1 \)  
-- Alfven speed: \( c_a = 0.1 \)  
-- Domain: \([0, 1] \times [-1, 1]\)  
+- Mach number: $M=1$
+- Shear scale height: $y_0 = 1/20$  
+- Perturbation amplitude: $v_{y0} = 10^{-2}$  
+- Perturbation width: $\sigma = 0.1$
+- Alfven speed: $c_a = 0.1$  
+- Domain: $[0, 1] \times [-1, 1]$
 
 ## Reference
 
