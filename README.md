@@ -6,11 +6,11 @@ This project reproduces a 2D magnetized Kelvin–Helmholtz (K–H) instability t
 
 - **Velocity**:  
   
-  $\mathbf{v} = \left[ \frac{M}{2} \tanh\left(\frac{y}{y_0}\right),\ 0,\ 0 \right]$
+  $\vec{v} = \left[ \frac{M}{2} \tanh\left(\frac{y}{y_0}\right),\ 0,\ 0 \right]$
 
 - **Magnetic field**:  
  
-  $\mathbf{B} = c_a \sqrt{\rho} \left[\cos\theta,\ 0,\ \sin\theta \right]$
+  $\vec{B} = c_a \sqrt{\rho} \left[\cos\theta,\ 0,\ \sin\theta \right]$
 
 - **Perturbation** in the y-velocity:  
 
